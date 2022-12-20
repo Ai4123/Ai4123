@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ai4123
 - 👀 I’m interested in everything and nothing.
-- 🌱 I’m currently learning web dev and dsa
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and ml ....yeah Data Science Ethusiast
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ...
 
 <!---
