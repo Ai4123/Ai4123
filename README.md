@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ai4123
-- 👀 I’m interested in everything and nothing.
-- 🌱 I’m currently learning python and ml ....yeah Data Science Ethusiast
+- 👋 Hi, I’m Ayushi
+- 👀 I’m interested in Data Analysis in different fields
+- 🌱 I’m currently learning python and statistics
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ...
 
