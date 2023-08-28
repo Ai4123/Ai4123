@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayushi
-- 👀 I’m interested in Data Analysis in different fields
-- 🌱 I’m currently learning python and statistics
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Designing
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on Product design and game design projects
 - 📫 How to reach me ...
 
 <!---
