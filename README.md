@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayushi
 - 👀 I’m interested in Designing
-- 🌱 I’m currently learning ML, React JS, Firebase
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Product design and game design projects
 - 📫 How to reach me ...
 
