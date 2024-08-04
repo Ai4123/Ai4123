@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayushi
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning about Blockchain
-- 💞️ I’m looking to gain experience as a Product Designer
+- 👀 I’m interested in UX Research and Designing 
+- 🌱 I’m currently learning about Blockchain and Frontend Development
+- 💞️ I’m looking to gain experience as a Product Designer/Developer
 - 📫 How to reach me ...
 
 <!---
